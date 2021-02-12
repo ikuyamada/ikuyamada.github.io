@@ -12,12 +12,14 @@ h1 {
 h2 {
   font-size: 20pt;
   margin-top: 25px;
+  margin-bottom: 15px;
   text-transform: uppercase;
   border-bottom: dotted 1px black;
 }
 h3 {
-  font-size: 18pt;
+  font-size: 14pt;
   margin-top: 15px;
+  margin-bottom: 10px;
 }
 h3 a {
   color: black;
@@ -29,7 +31,8 @@ h4 {
 }
 #profile_img {
   display: block;
-  margin-top: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   margin-left: 0px;
   margin-right: 30px;
   height: 150px;
@@ -41,6 +44,16 @@ h4 {
 }
 .job_title {
   font-size: 18px;
+}
+.fa-github {
+  margin-left: 4px;
+}
+.fa-linkedin-in {
+  margin-left: 4px;
+}
+.github_star {
+  vertical-align: top;
+  margin-left: 5px;
 }
 #copyright {
   text-align: center;
